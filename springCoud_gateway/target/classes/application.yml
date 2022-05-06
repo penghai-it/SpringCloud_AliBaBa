@@ -1,0 +1,30 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: api-geteway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 123.57.214.53:8848
+    gateway:
+      routes: #数组形式
+        - id: order-service  #路由唯⼀标识
+          #uri: http://127.0.0.1:7010  #想要转发到的地址
+          uri: lb://phclass-order-service   #从nacos中进行转发（lb:表示负载均衡）
+          order: 1 #优先级，数字越⼩优先级越⾼
+          predicates: #断⾔ 配置哪个路径才转发
+            - Path=/order-service/**   #路径前缀为/phclass-order-service/的请求才会被转发
+            - Before=2023-02-22T01:01:01.000+08:00  #到达指定时间之后就无法访问这接口了
+            #- Query=source  #必须携带指定的参数才能够访问
+          filters: #过滤器，请求在传递过程中通过过滤器修改
+            - StripPrefix=1  #去掉第⼀层前缀（controller接口路径前面有几层，这里就填几）
+      discovery:
+        locator:
+          enabled: true #开启⽹关拉取nacos的服
+  zipkin:
+    base-url: http://123.57.214.53:9411/ #zipkin地址
+    discovery-client-enabled: false #不⽤开启服务发现
+  sleuth:
+    sampler:
+      probability: 1.0 #采样百分比

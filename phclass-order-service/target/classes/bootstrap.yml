@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: phclass-order-service
+  cloud:
+    nacos:
+      config:
+        server-addr: 123.57.214.53:8848  #Nacos配置中心的地址
+        file-extension: yaml #⽂件拓展格式
+  profiles:
+    active: dev #生效方式（开发环境，测试环境，正式环境）

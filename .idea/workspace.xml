@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4831e767-7e9f-47ba-9cea-f4559fd1eef5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/JAVA/maven/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="JDK11" />
+    <option name="vmOptions" value="-Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectId" id="23dGoHbSyX7rptgSZLknosYOUek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloud" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.18226601" />
+    <property name="project.structure.side.proportion" value="0.3877551" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Git_workspace\SpringCioud-alibaba\phclass-common" />
+      <recent name="E:\Git_workspace\SpringCioud-alibaba\phclass-order-service" />
+      <recent name="E:\Git_workspace\SpringCioud-alibaba\phclass-user-service" />
+      <recent name="E:\Git_workspace\SpringCioud-alibaba\phclass-video-service" />
+      <recent name="E:\Git_workspace\SpringCioud-alibaba\phclass-video-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication8010">
+    <configuration name="GatewayApplication8888" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springCoud_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication7010" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="phclass-order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.ph.com.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.OrderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication7011" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phclass-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.OrderApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=7011" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication7012" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phclass-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.OrderApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=7012" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication8010" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phclass-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoApplication9010" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="phclass-video-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.ph.com.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.VideoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoApplication9011" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phclass-video-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.VideoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9011" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoApplication9012" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phclass-video-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ph.com.cn.VideoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9012" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderApplication7012" />
+      <item itemvalue="Spring Boot.GatewayApplication8888" />
+      <item itemvalue="Spring Boot.UserApplication8010" />
+      <item itemvalue="Spring Boot.VideoApplication9011" />
+      <item itemvalue="Spring Boot.VideoApplication9012" />
+      <item itemvalue="Spring Boot.OrderApplication7011" />
+      <item itemvalue="Spring Boot.OrderApplication7010" />
+      <item itemvalue="Spring Boot.VideoApplication9010" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication7010" />
+        <item itemvalue="Spring Boot.VideoApplication9010" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator.WIN-R6H74G9HE3A\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4831e767-7e9f-47ba-9cea-f4559fd1eef5" name="Default Changelist" comment="" />
+      <created>1642056723896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642056723896</updated>
+      <workItem from="1642056725502" duration="1773000" />
+      <workItem from="1642058523065" duration="115000" />
+      <workItem from="1642058655007" duration="62000" />
+      <workItem from="1642058822601" duration="412000" />
+      <workItem from="1642059252140" duration="1821000" />
+      <workItem from="1642061095719" duration="6011000" />
+      <workItem from="1642123843120" duration="8963000" />
+      <workItem from="1642142636672" duration="3801000" />
+      <workItem from="1642146499169" duration="5440000" />
+      <workItem from="1642209338312" duration="663000" />
+      <workItem from="1642236337950" duration="10000" />
+      <workItem from="1642473488195" duration="1189000" />
+      <workItem from="1642477316483" duration="1869000" />
+      <workItem from="1642577584889" duration="5453000" />
+      <workItem from="1642585333070" duration="3370000" />
+      <workItem from="1642638776974" duration="2324000" />
+      <workItem from="1642658471933" duration="1250000" />
+      <workItem from="1642990002724" duration="13243000" />
+      <workItem from="1643019742881" duration="2280000" />
+      <workItem from="1643026554098" duration="2000" />
+      <workItem from="1643026611276" duration="3000" />
+      <workItem from="1645169260787" duration="2395000" />
+      <workItem from="1645172300254" duration="4379000" />
+      <workItem from="1645251464936" duration="16000" />
+      <workItem from="1645409641701" duration="2200000" />
+      <workItem from="1645422563000" duration="6085000" />
+      <workItem from="1645428685378" duration="7101000" />
+      <workItem from="1645493592271" duration="4896000" />
+      <workItem from="1645499976063" duration="767000" />
+      <workItem from="1645500765625" duration="195000" />
+      <workItem from="1645501011645" duration="7391000" />
+      <workItem from="1645579868219" duration="3835000" />
+      <workItem from="1645588328968" duration="1759000" />
+      <workItem from="1645590116808" duration="1255000" />
+      <workItem from="1645591408228" duration="765000" />
+      <workItem from="1645595083509" duration="6341000" />
+      <workItem from="1645678832170" duration="1425000" />
+      <workItem from="1645684558134" duration="3160000" />
+      <workItem from="1645690998241" duration="4125000" />
+      <workItem from="1645752543213" duration="662000" />
+      <workItem from="1645753229126" duration="2693000" />
+      <workItem from="1645755961273" duration="2762000" />
+      <workItem from="1645763486526" duration="6337000" />
+      <workItem from="1646013177428" duration="2101000" />
+      <workItem from="1646032430312" duration="598000" />
+      <workItem from="1646099117168" duration="37000" />
+      <workItem from="1646185354730" duration="2328000" />
+      <workItem from="1646271536531" duration="2010000" />
+      <workItem from="1646358835396" duration="2557000" />
+      <workItem from="1648863640095" duration="516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
